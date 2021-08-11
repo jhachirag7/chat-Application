@@ -23,6 +23,7 @@ body{
     width: 380px;
     height: 480px;
     position: relative;
+    border-radius: 25px;
     margin: 6% auto;
     background:ghostwhite;
     padding: 5px;
